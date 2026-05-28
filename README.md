@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pathor-bagan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Pathor Bagan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pathor-bagan/) |
+| **Get License** | [Obtain a Music License for Pathor Bagan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pathor-bagan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f26ae1f533a261f7f6ad08e06ffc39c9b4b6dfa6e4ddb6c2a772ca588405d460` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
